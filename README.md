@@ -7,11 +7,11 @@
 
 - 🌱 I’m currently learning Web development. **Web Development Bootcamp**
 
-- 👨‍💻 All of my projects are available at [abhay.dev](abhaycs.dev)
+- 👨‍💻 All of my projects are available at [abhaycs.dev](abhaycs.dev)
 
 - 📫 How to reach me **abhaysharmacse@gmail.com**
 
-- 📄 Know about my experiences [abhay.dev/resume](abhaycs.dev/resume)
+- 📄 Know about my experiences [abhaycs.dev/resume](abhaycs.dev/resume)
 
 
 <h3 align="left">Languages and Tools:</h3>
