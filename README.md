@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Abhay Sharma</h1>
+<h1 align="center">Hi ![hand](hand.gif), I'm Abhay Sharma</h1>
 <h3 align="center">I'm passionate Student from Canada.</h3>
 
    <p align="center">
