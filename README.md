@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abhay Sharma</h1>
 <h3 align="center">I'm passionate Student from Canada.</h3>
 
-![Farmers Market Finder Demo](img/cat.gif)
+![cat](img/cat.gif)
 
 - 🌱 I’m currently learning Web development. **Web Development Bootcamp**
 
