@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning Web development.
 
-- 👨‍💻 All of my projects are available at [https://abhay.codes](abhay.codes)
+- 👨‍💻 All of my projects are available at [https://abhay.codes](https://abhay.codes/)
 
 - 📫 How to reach me **abhaysharmacse@gmail.com**
 
