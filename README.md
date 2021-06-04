@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **abhaysharmacse@gmail.com**
 
-- 📄 Know about my experiences [abhay.codes/resume](abhay.codes/resume)
+- 📄 Know about my experiences [abhay.codes/resume](https://abhay.codes/resume.html)
 
 
 <h3 align="left">Languages and Tools:</h3>
